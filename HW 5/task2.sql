@@ -29,5 +29,3 @@ SELECT COUNT(table_no)
 AS 'Distinct Tables'
 FROM restbill
 WHERE waiter_no='4,2';
-
-
